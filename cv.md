@@ -1,5 +1,7 @@
 # Evgeniy Nemchenko
 
+![avatar](avatar.jpg)
+
 ## Contacts
 
 - discord: Nevgen78
